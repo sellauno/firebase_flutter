@@ -23,3 +23,12 @@ Pastikan untuk mencoba memasukkan kata sandi pendek (kurang dari enam karakter) 
 Pada halaman ini pastikan untuk memasukkan password yang salah untuk memeriksa penanganan error pada halaman ini. Terakhir, setelah pengguna masuk, Anda akan melihat pengalaman masuk yang menawarkan pengguna kemampuan untuk keluar lagi.
 
 ![Screenshots](images/fb6.PNG)
+
+## Tulis pesan ke Cloud Firestore
+
+- Tampilan
+![Screenshots](images/fb7.PNG)
+
+- Konsol firebase
+![Screenshots](images/fb8.PNG)
+
