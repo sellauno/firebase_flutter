@@ -32,3 +32,5 @@ Pada halaman ini pastikan untuk memasukkan password yang salah untuk memeriksa p
 - Konsol firebase
 ![Screenshots](images/fb8.PNG)
 
+## Baca pesan
+![Screenshots](images/fb9.PNG)
